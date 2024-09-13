@@ -1,0 +1,1 @@
+playing around with abstraction of 3d bull models a la picasso's bull
